@@ -1,0 +1,27 @@
+{
+  "name": "EvilSquirrelGuy's SideStore Source 🐍🐍🐍 (sssource)",
+  "identifier": "org.evilsquirrelguy.sssource",
+  "sourceURL": "https://evilsquirrelguy.github.io/sssource/main.json",
+  "apps": [
+    {
+      "name": "osu!lazer",
+      "bundleIdentifier": "sh.ppy.osulazer",
+      "developerName": "Peppy",
+      "subtitle": "A free-to-win rhythm game. Rhythm is just a click away!",
+      "versions": [
+        {
+          "version": "2023.621.0",
+          "date": "2023-06-21",
+          "downloadURL": "https://github.com/ppy/osu/releases/download/2023.621.0/osu.iOS.ipa"
+        }
+      ],
+      "localizedDescription": "osu!\nA free-to-win rhythm game. Rhythm is just a click away!",
+      "iconURL": "https://github.com/ppy/osu/blob/master/assets/lazer.png",
+      "tintColor": "f067a4",
+      "screenshotURLs": [
+        "https://myapp.com/assets/screen0.png"
+      ],
+      "beta": true
+    }
+  ]
+}
