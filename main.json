@@ -4,7 +4,7 @@
   "sourceURL": "https://evilsquirrelguy.github.io/sssource/main.json",
   "apps": [
     {
-      "name": "osu!lazer",
+      "name": "osu lazer",
       "bundleIdentifier": "sh.ppy.osulazer",
       "developerName": "Peppy",
       "subtitle": "Rhythm is just a click away!",
