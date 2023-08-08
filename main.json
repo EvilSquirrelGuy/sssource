@@ -13,15 +13,17 @@
           "version": "2023.621.0",
           "date": "2023-06-21",
           "downloadURL": "https://github.com/ppy/osu/releases/download/2023.621.0/osu.iOS.ipa",
-          "size": 118943903,
+          
           "minimumOSVersion": "13.4"
         }
       ],
+      "downloadURL": "https://github.com/ppy/osu/releases/download/2023.621.0/osu.iOS.ipa",
+      "version": "2023.621.0",
       "localizedDescription": "osu!\nA free-to-win rhythm game. Rhythm is just a click away!",
       "iconURL": "https://github.com/ppy/osu/blob/master/assets/lazer.png",
       "tintColor": "f067a4",
       "screenshotURLs": [
-        "https://myapp.com/assets/screen0.png"
+        ""
       ],
       "beta": true
     }
