@@ -27,7 +27,7 @@
       "downloadURL": "https://github.com/ppy/osu/releases/download/2023.803.0/osu.iOS.ipa",
       "version": "2023.803.0",
       "localizedDescription": "osu!\nA free-to-win rhythm game. Rhythm is just a click away!",
-      "iconURL": "https://github.com/ppy/osu/blob/master/assets/lazer.png",
+      "iconURL": "https://raw.githubusercontent.com/ppy/osu/master/osu.iOS/Assets.xcassets/AppIcon.appiconset/iPadApp2x.png",
       "tintColor": "f067a4",
       "screenshotURLs": [
         "https://evilsquirrelguy.github.io/sssource/IMG_0093.png"
